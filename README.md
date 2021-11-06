@@ -12,6 +12,7 @@ must be implemented as dynamic libraries, loaded at runtime.
 Each GUI available for the program must be used as a shared
 library that will be loaded and used dynamically by the main
 program.
+
 [Documentation](https://github.com/kocariz/Arcade/blob/master/doc/arcadeDocumentation.pdf)
 ### Libraries
 #### Graphic
