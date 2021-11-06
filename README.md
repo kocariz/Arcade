@@ -20,7 +20,6 @@ program.
 * SFML
 #### Games
 * Nibbler
-* Pacman
 # Usage
 ```
 ./arcade ./lib/arcade_ncurses.so
