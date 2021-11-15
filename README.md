@@ -4,8 +4,8 @@ player scores
 
 Authors:
 * [Kattalin Ocariz](https://github.com/kocariz)
-* Oriol Moles
-* Arnau Espejo
+* [Oriol Moles](https://github.com/EruiDev)
+* [Arnau Espejo](https://github.com/aespejoh)
 # Project
 To be able to deal with the elements of your gaming plateform at run-time, your graphics libraries and your games
 must be implemented as dynamic libraries, loaded at runtime.
